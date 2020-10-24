@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiCal</string>
+    <string name="info_1">Bienvenido a MultiCal!</string>
+    <string name="info_2">Ingresa los valores a evaluar</string>
+    <string name="autor">SebastianCh</string>
+    <string name="conector"></string>
+    <string name="sim_1">+</string>
+    <string name="sim_2">-</string>
+    <string name="sim_3">*</string>
+    <string name="sim_4">/</string>
+    <string name="opt_1">Acabas de seleccionar la operación de suma</string>
+    <string name="opt_2">Acabas de seleccionar la operación de resta</string>
+    <string name="opt_3">Acabas de seleccionar la operación de multiplicación</string>
+    <string name="opt_4">Acabas de seleccionar la operación de división</string>
+</resources>
